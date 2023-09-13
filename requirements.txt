@@ -1,3 +1,4 @@
 flask
 pinecone-client
 langchain
+pydantic==1.10.9
