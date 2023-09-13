@@ -1,4 +1,4 @@
 flask
 pinecone-client
-langchain
+langchain==0.0.28
 pydantic==1.10.9
