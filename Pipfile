@@ -4,7 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-
+flask = "*"
+pinecone-client = "*"
+langchain = "*"
+sentence-transformers = "*"
+pypdf = "*"
+replicate = "*"
 [dev-packages]
 
 [requires]
