@@ -3,3 +3,4 @@ pinecone-client
 langchain==0.0.284
 pydantic==1.10.9
 pypdf
+sentence-transformers
